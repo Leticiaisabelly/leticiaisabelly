@@ -1,16 +1,15 @@
-### Hi there 👋
+### boas vindas ao meu perfil 💙
 
-<!--
-**Leticiaisabelly/leticiaisabelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Leticia Isabelly 
+----
+- Estou estudando na [Alura](http:\\wwww.com.br)
+- Estou me desenvolvendo na linguagem javaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+### voce pode entrar em contato comigo por 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+leticia.hamann@escola.pr.gov.br
+
+insta @leticia.hamann
+
+![](https://tenor.com/pt-BR/search/indo-ali-gifs)
